@@ -1,0 +1,20 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'YYKitDemoCoding' do
+
+# 添加YYkit组件
+pod 'YYKit', '~> 0.9.11'
+
+end
+
+target 'YYKitDemoCodingTests' do
+
+end
+
+target 'YYKitDemoCodingUITests' do
+
+end
+

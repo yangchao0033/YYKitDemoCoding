@@ -1,0 +1,12 @@
+PODS:
+  - YYKit (0.9.11):
+    - YYKit/no-arc (= 0.9.11)
+  - YYKit/no-arc (0.9.11)
+
+DEPENDENCIES:
+  - YYKit (~> 0.9.11)
+
+SPEC CHECKSUMS:
+  YYKit: 76c3f2cee1a72d3c5b1d7fd8d170ee507fe5df68
+
+COCOAPODS: 0.39.0
